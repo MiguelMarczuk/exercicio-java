@@ -12,7 +12,7 @@ Contém exercícios relacionados a **arrays, listas e coleções** em Java, incl
 - `ARRAy`: Exercícios básicos com arrays.
 - `CadastroProdutoEstoque`: Exercícios sobre cadastro de produtos e gerenciamento de estoque usando coleções.
 - `GerenciamnetoNotas`: Exercícios de gerenciamento de notas de alunos com listas e objetos.
-- `DesafioArray`: Exercícios desafiadores com arrays 
+
 
 ### `Excecoes`
 Exercícios de **tratamento de exceções**, incluindo:
