@@ -1,0 +1,6 @@
+# Ignorar subpasta problemática
+Arrays_E_Collections/DesafioArray/
+
+# Ignorar arquivos da IDE
+*.iml
+.idea/

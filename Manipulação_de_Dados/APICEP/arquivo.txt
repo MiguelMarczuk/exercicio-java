@@ -1,0 +1,11 @@
+  "cep": "27250-815",
+  "bairro": "Jardim Amália",
+  "localidade": "Volta Redonda",
+  "uf": "RJ"
+}
+{
+  "cep": "27250-815",
+  "bairro": "Jardim Amália",
+  "localidade": "Volta Redonda",
+  "uf": "RJ"
+}
